@@ -1,0 +1,29 @@
+what are softwares or platform we will use in our major project.
+
+1. java 1.8.
+2 tomcat server 1.8
+
+
+
+MVC
+
+1 mysql database.
+
+
+2 jsp/jquery(ajax call)/html/css/javascript.
+
+3 controller servlet...
+
+4. jdbc for database commmunication ..
+
+/use proper .statement/preparedstatement
+
+
+
+
+userrequest--->recieved by controller--->forward to services(bussiness logic)---->daoImp(all database code/executequery/connection/)
+
+
+
+
+
